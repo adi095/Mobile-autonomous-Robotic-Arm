@@ -2,6 +2,9 @@
 This project is part of the **Modern Robotics Specialization**, focusing on **mobile manipulation**. The objective is to develop software to control a **KUKA youBot** — a mobile robot with an omnidirectional **mecanum-wheel base** and a **5-joint robotic arm** — to perform **pick-and-place tasks** in a simulated environment using **MATLAB** and the **V-REP simulator**.
 
 ---
+Currenlty studying kinematics and inverse kinematics on the following arm:
+![image](https://github.com/user-attachments/assets/1ab53585-7865-4da8-acc1-281f4600a0a3)
+
 
 ## **Project Overview**
 The project integrates several key robotics concepts:
